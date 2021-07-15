@@ -1,4 +1,3 @@
-# Time-Series-Analysis
 # Web Traffic Time Series Forecasting
 ![timeseries](https://github.com/praveen8885/Time-Series-Analysis/blob/main/images/Time-Series-Analysis.jpg)
 # <u> Overview of Data
